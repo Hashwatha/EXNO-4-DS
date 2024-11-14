@@ -2,7 +2,6 @@
 # AIM:
 To read the given data and perform Feature Scaling and Feature Selection process and save the
 data to a file.
-
 # ALGORITHM:
 STEP 1:Read the given Data.
 STEP 2:Clean the Data Set using Data Cleaning Process.
